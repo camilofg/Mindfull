@@ -1,0 +1,433 @@
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.apk
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid-Signed.apk
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Primitives.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Primitives.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\bin\MIndFull.Droid.apk
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\values\styles.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\calendar.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\clock.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\csharp.jpeg
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\dashboard.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\email.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\facebook.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\group.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\heart.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\house.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclases.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclubes.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosherramientas.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosmembresias.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\info.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\linechart.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\nutricion.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\pesas.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\refresh.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\slideout.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\twitter.png
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\R.cs.flag
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\uploadflags.txt
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.Droid.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.apk
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid-Signed.apk
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.csprojResolveAssemblyReference.cache
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\bin\MIndFull.Droid.apk
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-hdpi\icon.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\tabbar.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\toolbar.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\values\styles.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\calendar.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\clock.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\csharp.jpeg
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\dashboard.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\email.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\facebook.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\group.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\heart.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\house.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclases.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclubes.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosherramientas.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosmembresias.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\info.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\linechart.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\nutricion.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\pesas.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\refresh.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\slideout.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\twitter.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\R.cs.flag
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\uploadflags.txt
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.config
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconmeditation.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\face_monkey.png
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Java.Interop.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.Android.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.CSharp.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\mscorlib.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Core.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.Droid.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.config
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.apk
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid-Signed.apk
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.csprojResolveAssemblyReference.cache
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\bin\MIndFull.Droid.apk
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-hdpi\icon.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\tabbar.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\toolbar.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\values\styles.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\calendar.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\clock.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\dashboard.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\email.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\facebook.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\group.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\heart.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\house.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclases.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclubes.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosherramientas.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosmembresias.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\info.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\linechart.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\nutricion.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\pesas.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\refresh.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\slideout.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\twitter.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\csharp.jpeg
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconmeditation.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\face_monkey.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\R.cs.flag
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\uploadflags.txt
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Acr.UserDialogs.Interface.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Acr.UserDialogs.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Splat.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Acr.UserDialogs.Interface.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\splashscreen.png
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Java.Interop.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.Android.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.CSharp.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\mscorlib.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Core.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.Droid.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.config
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.apk
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid-Signed.apk
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLite-net.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLitePCLRaw.batteries_green.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLitePCLRaw.core.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\FormsViewGroup.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLite-net.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\SQLite-net.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Newtonsoft.Json.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.csprojResolveAssemblyReference.cache
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\bin\MIndFull.Droid.apk
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\raw\tokensqlite.db3
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-hdpi\icon.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\tabbar.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\layout\toolbar.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\values\styles.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\calendar.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\clock.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\dashboard.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\email.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\facebook.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\group.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\heart.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\house.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclases.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosclubes.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosherramientas.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconosmembresias.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\info.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\linechart.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\nutricion.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\pesas.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\refresh.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\slideout.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\twitter.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\csharp.jpeg
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\iconmeditation.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\face_monkey.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\splashscreen.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon_facebook.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\icon_google.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\exit.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\task_list50.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\check50.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\blue_sky.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\google_button.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\facebook_button.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\res\drawable\sign_in.png
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\R.cs.flag
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\uploadflags.txt
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Java.Interop.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.Android.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\Mono.CSharp.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\mscorlib.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Core.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Net.Http.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\MIndFull.Droid.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\SQLite-net.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\obj\Debug\MIndFull.Droid.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull.Droid\bin\Debug\MIndFull.Droid.dll.mdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIndFull.Views.CreateActivity"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="45" />
+      <RowDefinition Height="45" />
+      <RowDefinition Height="45" />
+      <RowDefinition Height="45" />
+      <!--<RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />-->
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Label Grid.Row="0" Grid.Column="0" Text="Date" />
+    <DatePicker VerticalOptions="CenterAndExpand" Date="{x:Static sys:DateTime.Now}" Grid.Row="0" Grid.Column="1" x:Name="SelectedDate">
+      <DatePicker.Format>D</DatePicker.Format>
+      <DatePicker.MinimumDate>
+        <sys:DateTime x:FactoryMethod="Parse">
+          <x:Arguments>
+            <x:String>Jan 1 2000</x:String>
+          </x:Arguments>
+        </sys:DateTime>
+      </DatePicker.MinimumDate>
+      <DatePicker.MaximumDate>
+        <sys:DateTime x:FactoryMethod="Parse">
+          <x:Arguments>
+            <x:String>Dec 31 2050</x:String>
+          </x:Arguments>
+        </sys:DateTime>
+      </DatePicker.MaximumDate>
+    </DatePicker>
+    <Label Grid.Row="1" Grid.Column="0" Text="Activity" />
+    <Entry x:Name="TxtActivityName" Grid.Row="1" Grid.Column="1" ></Entry>
+    <Button x:Name="BtnSaveActivity" Clicked="BtnSave_Clicked" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Text="Save"></Button>
+  </Grid>
+</ContentPage>

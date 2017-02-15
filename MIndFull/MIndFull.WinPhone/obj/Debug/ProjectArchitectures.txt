@@ -1,0 +1,2 @@
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull.WinPhone\MIndFull.WinPhone.csproj;neutral
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\MIndFull.csproj;neutral

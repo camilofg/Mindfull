@@ -1,0 +1,139 @@
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Primitives.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Primitives.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+C:\Users\Pc\documents\visual studio 2015\Projects\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csproj.App.config
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.config
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.dll
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.pdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.xml
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csprojResolveAssemblyReference.cache
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+A:\Nueva carpeta\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.config
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.xml
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csproj.App.config
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.Monkey.xaml.g.cs
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.Interface.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Splat.dll
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.Interface.pdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csprojResolveAssemblyReference.cache
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+A:\CodigoFuente_ToolSoft\TestCF\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.config
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.Interface.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Mono.Android.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Splat.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\SQLite-net.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\SQLitePCLRaw.batteries_green.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\SQLitePCLRaw.core.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Acr.UserDialogs.Interface.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Mono.Android.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Newtonsoft.Json.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\SQLite-net.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Extensions.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\System.Net.Http.Primitives.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Core.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Platform.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\Xamarin.Forms.Xaml.xml
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csproj.App.config
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.GenericActivityView.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.Login.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.GridTest.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.CreateUser.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.CreateActivity.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.ForgotPass.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.Views.ResultNewUser.xaml.g.cs
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.pdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.csprojResolveAssemblyReference.cache
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\obj\Debug\MIndFull.dll.mdb
+J:\Codigo Fuente\test\MIndFull\MIndFull\MIndFull\bin\Debug\MIndFull.dll.mdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIndFull.Views.GridTest" 
+             Page.BackgroundImage="blue_sky.png"
+             >
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Entry Placeholder="User" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Entry Placeholder="Password" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Label Text="New User?" Grid.Row="3" Grid.Column="0" />
+    <Label Text="Forgot Password" Grid.Row="3" Grid.Column="1" HorizontalTextAlignment="End" />
+    <Button Text="Sign in"  Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Label  Text="----------- or -----------" Grid.Row="5" Grid.Column="0"  Grid.ColumnSpan="2" HorizontalTextAlignment="Center" />
+    <Image x:Name="ImgBtnFB"  Grid.Row="6" Grid.Column="0">
+      <Image.Source>
+        <OnPlatform x:TypeArguments="ImageSource">
+          <OnPlatform.iOS>facebook_button.png</OnPlatform.iOS>
+          <OnPlatform.Android>facebook_button.png</OnPlatform.Android>
+          <OnPlatform.WinPhone>Images/facebook_button.png</OnPlatform.WinPhone>
+        </OnPlatform>
+      </Image.Source>
+    </Image>
+    <Image x:Name="ImgBtnGoogle" Grid.Row="6" Grid.Column="1">
+      <Image.Source>
+        <OnPlatform x:TypeArguments="ImageSource">
+          <OnPlatform.iOS>google_button.png</OnPlatform.iOS>
+          <OnPlatform.Android>google_button.png</OnPlatform.Android>
+          <OnPlatform.WinPhone>Images/google_button.png</OnPlatform.WinPhone>
+        </OnPlatform>
+      </Image.Source>
+    </Image>
+  </Grid>
+</ContentPage>

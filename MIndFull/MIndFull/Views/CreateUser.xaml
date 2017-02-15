@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIndFull.Views.CreateUser">
+  <ContentPage.Content>
+    <StackLayout Padding="10,30,10,10" Spacing="10">
+      <!--<StackLayout.BackgroundColor>
+          <OnPlatform x:TypeArguments="Color" Android="#FFFFFF" WinPhone="#51C0D4" iOS="#51C0D4"></OnPlatform>
+      </StackLayout.BackgroundColor>-->
+      <Image x:Name="IconLogo"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"/>
+      <Label Text="MINDFULL"
+             Font="30"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"/>
+      <Label Text="User Creation"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"/>
+      <ActivityIndicator x:Name="waitActivityIndicator"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"/>
+      <Label Text="*Email:"
+            HorizontalOptions="Start"
+            VerticalOptions="Center"/>
+      <Entry x:Name="TxtEmail"
+             Placeholder="Email"
+             HorizontalOptions="FillAndExpand"
+             VerticalOptions="Center"
+             Keyboard="Email"/>
+      <Label Text="*Password:"
+            HorizontalOptions="Start"
+            VerticalOptions="Center"/>
+      <Entry x:Name="TxtPass"
+             Placeholder="Password"
+             IsPassword="True"
+             HorizontalOptions="FillAndExpand"
+             VerticalOptions="Center"/>
+      <Label Text="Telephone:"
+            HorizontalOptions="Start"
+            VerticalOptions="Center"/>
+      <Entry x:Name="TxtPhone"
+             Placeholder="Phone Number"
+             Keyboard="Numeric"
+             HorizontalOptions="FillAndExpand"
+             VerticalOptions="Center"/>
+      <Label Text="* Fields required"
+              HorizontalOptions="Start"
+              VerticalOptions="Center"/>
+      <Button x:Name="BtnCreate"
+              BackgroundColor="Navy"
+              TextColor="White"
+              Text="Create User"
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="Center"
+              Clicked="BtnCreate_Clicked"/>
+    </StackLayout>
+  </ContentPage.Content>
+  <!--<Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="70" />
+      --><!--<RowDefinition Height="40" />
+      <RowDefinition Height="40" />--><!--
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Label Text="Create User" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalTextAlignment="Center"></Label>
+    <Entry Placeholder="* Email" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" x:Name="TxtEmail" Keyboard="Email" HorizontalTextAlignment="Center"></Entry>
+    <Entry Placeholder="* Password" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" x:Name="TxtPass" IsPassword="True" HorizontalTextAlignment="Center"></Entry>
+    <Button x:Name="BtnLogin" Clicked="BtnCreate_Clicked" Text="Create User"  Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" TextColor="Black" BackgroundColor="#F6CEEC" FontAttributes="Italic" FontSize="18" />
+    <ActivityIndicator Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" x:Name="waitActivityIndicator"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+    <Label Text="Create User" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalTextAlignment="Center"></Label>
+  </Grid>-->
+</ContentPage>

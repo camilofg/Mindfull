@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MIndFull.Views.Login"
+             Page.BackgroundImage="blue_sky.png">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="100" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="70" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Entry Placeholder="User" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" TextColor="Black" PlaceholderColor="Gray" x:Name="TxtUser" />
+    <Entry Placeholder="Password" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" TextColor="Black" IsPassword="True" PlaceholderColor="Gray" x:Name="TxtPass" />
+    <Label x:Name="LblNewUser" Text="New User?" Grid.Row="3" Grid.Column="0" TextColor="Blue" />
+    <Label x:Name="LblForgot" Text="Forgot Password" Grid.Row="3" Grid.Column="1" HorizontalTextAlignment="End" TextColor="Blue" />
+    <ActivityIndicator x:Name="waitActivityIndicator"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"
+             Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" />
+    <Button x:Name="BtnLogin" Image="sign_in" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" TextColor="Black" BackgroundColor="#F6CEEC" FontAttributes="Italic" FontSize="30" />
+    <Label  Text="---------------------- or ----------------------" Grid.Row="5" Grid.Column="0"  Grid.ColumnSpan="2" HorizontalTextAlignment="Center"  TextColor="White" FontAttributes="Italic" FontSize="30" />
+
+    <Image x:Name="ImgBtnFB" Grid.Row="6" Grid.Column="0">
+      <Image.Source>
+        <OnPlatform x:TypeArguments="ImageSource">
+          <OnPlatform.iOS>facebook_button.png</OnPlatform.iOS>
+          <OnPlatform.Android>facebook_button.png</OnPlatform.Android>
+          <OnPlatform.WinPhone>Images/facebook_button.png</OnPlatform.WinPhone>
+        </OnPlatform>
+      </Image.Source>
+    </Image>
+    <Image x:Name="ImgBtnGoogle" Grid.Row="6" Grid.Column="1">
+      <Image.Source>
+        <OnPlatform x:TypeArguments="ImageSource">
+          <OnPlatform.iOS>google_button.png</OnPlatform.iOS>
+          <OnPlatform.Android>google_button.png</OnPlatform.Android>
+          <OnPlatform.WinPhone>Images/google_button.png</OnPlatform.WinPhone>
+        </OnPlatform>
+      </Image.Source>
+    </Image>
+    <!--<Button BorderColor="Blue" Clicked="BtnFB_OnClicked" Image="facebook_button.png" />
+    <Button Clicked="BtnGoogle_OnClicked" Image="google_button.png"/>
+    <Entry Placeholder="Insert Email" Text="{Binding Email}"></Entry>
+    <Entry Placeholder="Password" IsPassword="True" Text="{Binding PasswordHash}"></Entry>
+    <Entry Placeholder="Telephone" Keyboard="Telephone" Text="{Binding PhoneNumber}"></Entry>
+    <Button Text="Sign Up" x:Name="BtnLogin"></Button>
+  </StackLayout>-->
+  </Grid>
+</ContentPage>
